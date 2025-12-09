@@ -1,4 +1,4 @@
-# Job Market Dashboard – Power BI
+# Job Data Visualization – Power BI
 
 ## Overview
 This is a practice project for data analysis and visualization using Power BI. The dashboard provides insights into the job market, including top job titles, average salaries, job count by category.
