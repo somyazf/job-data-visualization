@@ -3,6 +3,8 @@
 ## Overview
 This is a practice project for data analysis and visualization using Power BI. The dashboard provides insights into the job market, including top job titles, average salaries, job count by category.
 
+![Example Image](job-data-dashboard.png)
+
 ## Tools & Technologies
 - Power BI Desktop
 - Datasets: Job listings data (public / sample)
